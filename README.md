@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chae won
 - 👀 I’m interested in ... Development & Philosophy
-- 🌱 I’m currently learning ... PYTHON
+- 🌱 I’m currently learning ... P
 - 💞️ I’m looking to collaborate on ... DataScience
 - 📫 How to reach me ... dla9944@naver.com
 
