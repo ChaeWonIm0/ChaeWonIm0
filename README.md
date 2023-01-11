@@ -9,6 +9,3 @@ dla9944/dla9944 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-![image](https://user-images.githubusercontent.com/114221089/211705821-415bc7b4-950a-41d9-894b-e651ffb24c94.png)
