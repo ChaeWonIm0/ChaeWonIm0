@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... DataScience
 - 📫 How to reach me ... dla9944@naver.com
 <img src="https://img.shields.io/badge/python-yellow?style=flat&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/sklearn-?style=flat&logo=python&logoColor=#F7931E"/>
+
+<img src="https://img.shields.io/badge/sklearn-?style=flat&logo=python&logoColor=F7931E"/>
 <br>
 <br>
 <br>
