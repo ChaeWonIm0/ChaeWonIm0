@@ -5,9 +5,9 @@
 - 📫 How to reach me ... dla9944@naver.com
 <br>
 <br>
-<br>
-<br>
-<center><img src="https://img.shields.io/badge/python-yellow?style=flat&logo=python&logoColor=3776AB"/><center>
+<div align="center">
+<img src="https://img.shields.io/badge/python-yellow?style=flat&logo=python&logoColor=3776AB"/>
+</div>
 <br>
 <br>
 <br>
