@@ -7,7 +7,7 @@
 <br>
 <br>
 <br>
-<img src="https://img.shields.io/badge/python-yellow?style=flat&logo=python&logoColor=3776AB"/>
+<center><img src="https://img.shields.io/badge/python-yellow?style=flat&logo=python&logoColor=3776AB"/><center>
 <br>
 <br>
 <br>
