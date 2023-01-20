@@ -3,19 +3,15 @@
 - 🌱 I’m currently learning ... Python, sklearn, pytorch
 - 💞️ I’m looking to collaborate on ... DataScience
 - 📫 How to reach me ... dla9944@naver.com
-
-
-
-
-
+<br>
+<br>
 <br>
 <br>
 <img src="https://img.shields.io/badge/python-yellow?style=flat&logo=python&logoColor=3776AB"/>
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dla9944&show_icons=true&theme=dracula)
 
 
