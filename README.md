@@ -5,11 +5,18 @@
 - 📫 How to reach me ... dla9944@naver.com
 
 
+
+
+
+
 <img src="https://img.shields.io/badge/python-yellow?style=flat&logo=python&logoColor=3776AB"/>
+
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dla9944&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dla9944&layout=compact&theme=dracula)
 
 <!---
 dla9944/dla9944 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
