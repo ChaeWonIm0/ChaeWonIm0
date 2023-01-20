@@ -3,9 +3,11 @@
 - 🌱 I’m currently learning ... Python, sklearn, pytorch
 - 💞️ I’m looking to collaborate on ... DataScience
 - 📫 How to reach me ... dla9944@naver.com
-<img src="https://img.shields.io/badge/python-yellow?style=flat&logo=python&logoColor=3776AB"/>
 
-<img src="https://img.shields.io/badge/sklearn-?style=flat&logo=python&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/python-green?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/sklearn-grey?style=flat&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/pytorch-black?style=flat&logo=pytorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/pandas-white?style=flat&logo=pandas&logoColor=150458"/> <img src="https://img.shields.io/badge/Adobe Illustrator-purple?style=flat&logo=Adobe Illustrator&logoColor=FF9A00"/>
+
+
+
 <br>
 <br>
 <br>
