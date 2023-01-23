@@ -16,8 +16,7 @@
 <br>
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dla9944&show_icons=true&theme=dracula)
-
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dla9944&show_icons=true&theme=white)
   
 </div>
 
