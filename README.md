@@ -16,12 +16,12 @@
 <br>
 <div align="center">
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dla9944&show_icons=true&theme=dracula)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaeWonIm0&show_icons=true&theme=dracula)
 
 </div>
 
 <!---
-dla9944/dla9944 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ChaeWonIm0/ChaeWonIm0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
