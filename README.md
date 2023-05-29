@@ -20,6 +20,9 @@
 
 </div>
 
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeWonIm0&langs_count=8&layout=compact&theme=white)](https://github.com/ChaeWonIm0/ChaeWonIm0)
+
+
 <!---
 ChaeWonIm0/ChaeWonIm0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
