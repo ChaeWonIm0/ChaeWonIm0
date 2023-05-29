@@ -21,7 +21,10 @@
 </div>
 
 <div align="center"> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeWonIm0&langs_count=8&layout=compact&theme=white)](https://github.com/ChaeWonIm0/ChaeWonIm0)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeWonIm0&langs_count=10&layout=compact&theme=dark)](https://github.com/ChaeWonIm0/ChaeWonIm0)
+
+
+  
 </div>
 
 <!---
