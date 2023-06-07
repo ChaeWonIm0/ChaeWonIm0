@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chae won
-- 👀 I’m interested in ... Backend, Server, Deeplearning
+- 👀 I’m interested in ... Backend, Server, DataScience
 - 🌱 I’m currently learning ... Python, sklearn, pytorch, Flask, AWS EC2
 - 💞️ I’m looking to collaborate on ... DataScience
 - 📫 How to reach me ... dla9944@naver.com
