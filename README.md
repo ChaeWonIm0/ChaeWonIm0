@@ -19,7 +19,7 @@
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaeWonIm0&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeWonIm0&langs_count=10&layout=compact&theme=white)](https://github.com/ChaeWonIm0/ChaeWonIm0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeWonIm0&langs_count=10&layout=compact&theme=blue)](https://github.com/ChaeWonIm0/ChaeWonIm0)
 
 
   
