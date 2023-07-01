@@ -1,12 +1,14 @@
 - 👋 Hi, I’m Chae won
 - 👀 I’m interested in ... Backend, Server, DataScience
-- 🌱 I’m currently learning ... Python, sklearn, pytorch, Flask, AWS EC2
+- 🌱 I’m currently learning ... Python, sklearn, Flask, AWS VM
 - 💞️ I’m looking to collaborate on ... DataScience
 - 📫 How to reach me ... dla9944@naver.com
 <br>
 
 <div align="center"> 
 <img src="https://img.shields.io/badge/python-green?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/sklearn-grey?style=flat&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/pytorch-black?style=flat&logo=pytorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/pandas-white?style=flat&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/tensorflow-white?style=flat&logo=tensorflow&logoColor=150458"/> <img src="https://img.shields.io/badge/keras-white?style=flat&logo=keras&logoColor=150458"/>
+<img src="https://img.shields.io/badge/docker-white?style=flat&logo=docker&logoColor=150458"/>
 </div>
 
 
