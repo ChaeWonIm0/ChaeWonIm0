@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... DataScience
 - 📫 How to reach me ... dla9944@naver.com
 <br>
-
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=chae won's github&fontSize=90" />
+<hr>
 <div align="center"> 
 <img src="https://img.shields.io/badge/python-FFFE04?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/sklearn-grey?style=flat&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/pytorch-black?style=flat&logo=pytorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/pandas-white?style=flat&logo=pandas&logoColor=150458"/>
 <img src="https://img.shields.io/badge/tensorflow-F4F4F4?style=flat&logo=tensorflow&logoColor=FF740E"/> <img src="https://img.shields.io/badge/keras-F80000?style=flat&logo=keras&logoColor=ffffff"/>
