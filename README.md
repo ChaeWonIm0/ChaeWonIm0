@@ -7,7 +7,7 @@
 
 <div align="center"> 
 <img src="https://img.shields.io/badge/python-green?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/sklearn-grey?style=flat&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/pytorch-black?style=flat&logo=pytorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/pandas-white?style=flat&logo=pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/tensorflow-black?style=flat&logo=tensorflow&logoColor=FF740E"/> <img src="https://img.shields.io/badge/keras-red?style=flat&logo=keras&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/tensorflow-black?style=flat&logo=tensorflow&logoColor=FF740E"/> <img src="https://img.shields.io/badge/keras-F80000?style=flat&logo=keras&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/docker-white?style=flat&logo=docker&logoColor=2BA4FE"/>
 </div>
 
