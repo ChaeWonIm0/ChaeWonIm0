@@ -5,9 +5,10 @@
 - 📫 How to reach me ... dla9944@naver.com
 <br>
 <div align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Chaewon's%20github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Chaewon's%20github&fontSize=40" />
 <hr>
 
+<h4 STACK></h4>
 <img src="https://img.shields.io/badge/python-FFFE04?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/sklearn-grey?style=flat&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/pytorch-black?style=flat&logo=pytorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/pandas-white?style=flat&logo=pandas&logoColor=150458"/>
 <img src="https://img.shields.io/badge/tensorflow-F4F4F4?style=flat&logo=tensorflow&logoColor=FF740E"/> <img src="https://img.shields.io/badge/keras-F80000?style=flat&logo=keras&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/docker-white?style=flat&logo=docker&logoColor=2BA4FE"/>
@@ -25,6 +26,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeWonIm0&langs_count=10&layout=compact&theme=blue)](https://github.com/ChaeWonIm0/ChaeWonIm0)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dla9944)](https://solved.ac/dla9944)
 
   
 </div>
