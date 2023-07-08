@@ -5,7 +5,7 @@
 - 📫 How to reach me ... dla9944@naver.com
 <br>
 <div align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Chaewon's%20github&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Chaewon's%20github&fontSize=40" />
 <hr>
 
 <h4 STACK></h4>
