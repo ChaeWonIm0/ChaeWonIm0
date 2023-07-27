@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chae won
-- 👀 I’m interested in ... Backend, Server, Data
-- 🌱 I’m currently learning ... Python, sklearn, Flask, AWS VM
+- 👀 I’m interested in ... Backend, Server, Data, GUI
+- 🌱 I’m currently learning ... C/C++, Python, Linux VM
 - 💞️ I’m looking to collaborate on ... F&B, marketing
 - 📫 How to reach me ... dla9944@naver.com
 <br>
@@ -9,9 +9,9 @@
 <hr>
 
 <h4 STACK></h4>
-<img src="https://img.shields.io/badge/python-FFFE04?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/sklearn-grey?style=flat&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/pytorch-black?style=flat&logo=pytorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/pandas-white?style=flat&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/python-FFFE04?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/sklearn-grey?style=flat&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/pytorch-black?style=flat&logo=pytorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/pandas-white?style=flat&logo=pandas&logoColor=150458"/>
 <img src="https://img.shields.io/badge/tensorflow-F4F4F4?style=flat&logo=tensorflow&logoColor=FF740E"/> <img src="https://img.shields.io/badge/keras-F80000?style=flat&logo=keras&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/docker-white?style=flat&logo=docker&logoColor=2BA4FE"/>
+<img src="https://img.shields.io/badge/docker-white?style=flat&logo=docker&logoColor=2BA4FE"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> 
 </div>
 
 
