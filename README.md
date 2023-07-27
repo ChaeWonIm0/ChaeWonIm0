@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Backend, Server, Data, GUI
 - 🌱 I’m currently learning ... C/C++, Python, Linux VM
 - 💞️ I’m looking to collaborate on ... F&B, marketing
-- 📫 How to reach me ... dla9944@naver.com
+- 📫 How to reach me ... dla9944@gmail.com
 <br>
 <div align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Chaewon's%20github&fontSize=40" />
