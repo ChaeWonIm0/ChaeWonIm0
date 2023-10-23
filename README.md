@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chae won
 - 👀 I’m interested in ... Backend, Server, Data, GUI
-- 🌱 I’m currently learning ... C/C++, Python, Linux VM
+- 🌱 I’m currently learning ... Swift, C, Linux
 - 💞️ I’m looking to collaborate on ... F&B, marketing
 - 📫 How to reach me ... dla9944@gmail.com
 <br>
